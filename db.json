@@ -1,0 +1,9 @@
+{
+    "licenses" : [
+        {"uid" : 1, "hwid" : "123ABC", "expires_in" : 9643896438694},
+        {"uid" : 2, "hwid" : "123DEF", "expires_in" : 9643896438694},
+        {"uid" : 3, "hwid" : "123GHI", "expires_in" : 9643896438694},
+        {"uid" : 4, "hwid" : "123JKL", "expires_in" : 9643896438694},
+        {"uid" : 5, "hwid" : "123MNO", "expires_in" : 9643896438694}
+    ]
+}
